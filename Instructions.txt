@@ -1,0 +1,5 @@
+To use this code as a whole you will need to download the Video Generation Tool "ImageMagick".
+https://imagemagick.org/script/download.php#windows
+
+After downloading, install it in your preferred location.
+In the Python File 2.py, create a variable or change the path to Convert.exe present inside the ImageMagick folder for successfull video generation.
